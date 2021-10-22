@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "name": "riya",
+      "email": "riya18@gmail.com",
+      "phone": 9000016219,
+      "id": 6
+    },
+    {
+      "name": "sanvi",
+      "email": "sanvi18@gmail.com",
+      "phone": "9848022338",
+      "id": 8
+    },
+    {
+      "name": "sam",
+      "email": "sam18@gmail.com",
+      "phone": "9990129098",
+      "id": 9
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "phone": "123321232",
+      "id": 11
+    },
+    {
+      "name": "vijay",
+      "email": "vijay18@gmail.com",
+      "phone": "900000000",
+      "id": 12
+    },
+    {
+      "name": "shiva",
+      "email": "shiva22@gmailcom",
+      "phone": "9898989898",
+      "id": 13
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "phone": "0123321232",
+      "id": 14
+    },
+    {
+      "name": "karan",
+      "email": "karan18@gmail.com",
+      "phone": "09000016219",
+      "id": 15
+    }
+  ]
+}
